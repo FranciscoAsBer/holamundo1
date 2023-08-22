@@ -19,7 +19,8 @@ namespace holamundo
 
         private void label1_Click ( object sender, EventArgs e )
         {
-            //hola mundo cagadero
+            //hola mundo cagadero MIERDA
+
         }
     }
 }
