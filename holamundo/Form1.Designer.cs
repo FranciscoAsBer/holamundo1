@@ -34,11 +34,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(131, 120);
+            this.label1.Location = new System.Drawing.Point(11, 125);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(107, 13);
+            this.label1.Size = new System.Drawing.Size(261, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "holamundo cagadero";
+            this.label1.Text = "holamundo KASNDAMS;LDMASLD;ALSMDcagadero";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // Form1
